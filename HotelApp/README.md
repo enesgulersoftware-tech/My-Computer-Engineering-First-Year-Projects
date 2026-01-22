@@ -1,9 +1,9 @@
-# 🏨 OtelApp - Hotel Management System
+# 🏨 HotelApp - Hotel Management System
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OOP](https://img.shields.io/badge/Paradigm-OOP-red?style=for-the-badge)
 
-OtelApp is a Python-based management system designed to streamline hotel operations such as room bookings, guest management, and availability tracking. This project demonstrates the core principles of **Object-Oriented Programming (OOP)**.
+HotelApp is a Python-based management system designed to streamline hotel operations such as room bookings, guest management, and availability tracking. This project demonstrates the core principles of **Object-Oriented Programming (OOP)**.
 
 ---
 
@@ -20,7 +20,7 @@ OtelApp is a Python-based management system designed to streamline hotel operati
 ## 📂 Project Structure
 
 ```text
-OtelApp/
+HotelApp/
 │
 ├── main.py            # Entry point of the application
 ├── hotel.py           # Hotel class and main logic
